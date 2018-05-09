@@ -34,25 +34,25 @@ Banner左右滑动，两边带Gallery效果
 
 ```
 <com.mz.gallerybanner.GalleryBannerView
-        android:id="@+id/galleryBannerView"
-        android:layout_width="match_parent"
-        android:layout_height="160dp"
-        android:layout_gravity="center"
-        android:clipToPadding="false"
-        android:paddingLeft="30dp"
-        android:paddingRight="30dp"/>
+	android:id="@+id/galleryBannerView"
+	android:layout_width="match_parent"
+	android:layout_height="160dp"
+	android:layout_gravity="center"
+	android:clipToPadding="false"
+	android:paddingLeft="30dp"
+	android:paddingRight="30dp"/>
 ```
 
 2、代码设置
 
 ```
-        galleryBannerView = findViewById(R.id.galleryBannerView);
-        galleryBannerView.update(initData(), R.layout.item_banner, new MyAdapterCallback(), new GalleryBannerView.OnItemClickEvent<String>() {
-            @Override
-            public void onItemClick(View view, String o, int position) {
-                Toast.makeText(MainActivity.this, String.format(getString(R.string.click_img), position), Toast.LENGTH_SHORT).show();
-            }
-        });
+galleryBannerView = findViewById(R.id.galleryBannerView);
+galleryBannerView.update(initData(), R.layout.item_banner, new MyAdapterCallback(), new GalleryBannerView.OnItemClickEvent<String>() {
+    @Override
+    public void onItemClick(View view, String o, int position) {
+	Toast.makeText(MainActivity.this, String.format(getString(R.string.click_img), position), Toast.LENGTH_SHORT).show();
+    }
+});
 ```
 
 ------
@@ -60,18 +60,18 @@ Banner左右滑动，两边带Gallery效果
 项目中添加：
 root build.gradle
 ```
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://www.jitpack.io' }
-		}
+allprojects {
+	repositories {
+		...
+		maven { url 'https://www.jitpack.io' }
 	}
+}
 ```
 module build.gradle
 ```
-	dependencies {
-	        implementation 'com.github.blazecake:GalleryBanner:v1.0.0beta'
-	}
+dependencies {
+	implementation 'com.github.blazecake:GalleryBanner:v1.0.0beta'
+}
 
 ```
 
