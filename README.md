@@ -4,13 +4,16 @@ Banner左右滑动，两边带Gallery效果
 ------
 
 手动滑动效果：
-![这里写图片描述](https://img-blog.csdn.net/20180509181534688?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RvbmdndWFuZ2h1aXlpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![手动滑动效果](../img/result1.gif)
 
 自动滑动效果：
-![这里写图片描述](https://img-blog.csdn.net/20180509181602218?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RvbmdndWFuZ2h1aXlpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![自动滑动效果](../img/result2.gif)
 
 点击Banner效果：
-![这里写图片描述](https://img-blog.csdn.net/20180509181625469?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RvbmdndWFuZ2h1aXlpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![点击Banner效果](../img/result3.gif)
 
 ------
 
