@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryBanner</string>
+    <string name="index">第%d张</string>
+    <string name="click_img">点击了第%d张图片!</string>
+</resources>
