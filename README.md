@@ -5,7 +5,7 @@ Banner左右滑动，两边带Gallery效果
 
 手动滑动效果：
 
-![手动滑动效果](../img/result1.gif)
+![手动滑动效果](https://github.com/blazecake/GalleryBanner/blob/master/img/result1.gif)
 
 自动滑动效果：
 
