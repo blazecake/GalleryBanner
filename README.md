@@ -9,11 +9,11 @@ Banner左右滑动，两边带Gallery效果
 
 自动滑动效果：
 
-![自动滑动效果](../img/result2.gif)
+![自动滑动效果](https://github.com/blazecake/GalleryBanner/blob/master/img/result2.gif)
 
 点击Banner效果：
 
-![点击Banner效果](../img/result3.gif)
+![点击Banner效果](https://github.com/blazecake/GalleryBanner/blob/master/img/result3.gif)
 
 ------
 
