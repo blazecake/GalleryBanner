@@ -21,6 +21,8 @@ Banner左右滑动，两边带Gallery效果
 下载体验：
 [点击下载apk](https://www.pgyer.com/Zhzi)
 
+扫一扫下载：
+
 ![扫一扫下载](https://github.com/blazecake/GalleryBanner/blob/master/img/apk.png)
 
 
